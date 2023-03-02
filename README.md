@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zoltanbiber
-- 👀 I’m interested in Frontend/UI Development, Fullstack Javascript Development, Product Management, Architecture, Property Development, Food Startups 
+- 👀 I’m interested in Frontend Development, Fullstack Javascript Development, Product Management, Property Development 
 - 🌱 I’m currently learning React, Next.js, Typescript, Figma, Product Management
-- 💞️ I’m looking to collaborate with businesses based in Leipzig/Berlin (moving to Leipzig)
 - 📫 How to reach me: zoltan.biber@gmail.com
 
 <!---
