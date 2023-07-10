@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zoltanbiber
-- 👀 I’m interested in Frontend Development, Fullstack Javascript Development, Product Management, Property Development 
-- 🌱 I’m currently learning React, Next.js, Typescript, Figma, Product Management
+- 👀 I’m interested in Frontend Development, React, Fullstack JavaScript Development, Product Management
+- 🌱 I’m currently learning React, Next.js, Typescript, Figma, mongoDB, Node.js, Product Management
 - 📫 How to reach me: zoltan.biber@gmail.com
 
 <!---
